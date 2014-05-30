@@ -1,0 +1,29 @@
+FTP 
+Transmision de archivos
+Hosting barato normal --> /public_html/ <-- FTP
+index.php
+images
+leonidas.jpg
+www.fuckencio.com
+
+SISTEMA DE CONTROL DE VERSIONES
+ 
+SVN:  Subversion / Mercurial / TFD /CVS / GIT
+Github
+1.-Red Social de Programadores
+2.-WEB/APPs
+3.-Mucho mas facil
+
+====
+
+Reppositorio de codigo Github (master)
+
+1. multiples versiones
+2. cambios Delt
+3. Base de datos atomica
+4. historial de cada archivo
+5. multiples personas
+6. culpar al culpable
+7. ramas
+
+.
